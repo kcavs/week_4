@@ -1,10 +1,10 @@
 /***
- * project: rectangle
+ * project: Rectangle
  * programmer: kiersten cavalli
  * date: feb 26th, 2023
- * program: rect.java
+ * program: Rect.java
  ***/
-public class rect
+public class Rect
 {
     public static void main (String[]args)
     {
